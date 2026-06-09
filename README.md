@@ -127,8 +127,25 @@ Depois, abra no Expo Go pelo QR Code ou execute em um emulador Android/iOS.
 Espaco reservado para prints da entrega:
 
 - Home com busca de receitas.
+
+<p align="center">
+  <img width="287" alt="Home" src="https://github.com/user-attachments/assets/10df322e-f9cd-4b24-a1a1-9d485974403a" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="286" alt="Busca" src="https://github.com/user-attachments/assets/932da380-f7b9-4e8c-af70-3d58f5c42216" />
+</p>
+
 - Tela de detalhes da receita.
+
+<p align="center">
+  <img width="286" alt="Detalhes da receita" src="https://github.com/user-attachments/assets/107e4fd6-afaa-49a5-b194-3541d200850f" />
+</p>
+
 - Tela de favoritos.
+
+<p align="center">
+  <img width="282" alt="Favoritos" src="https://github.com/user-attachments/assets/2270bcc8-3329-4f3b-9667-c4453943bb89" />
+</p>
+
 
 ## Checklist dos requisitos academicos
 
